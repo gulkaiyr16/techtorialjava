@@ -9,6 +9,7 @@ public class PrecedencePractice {
         int result = x + y * y + x / 3 -1;
         System.out.println(result);
 
+
         int count = 6/3+5%3-(4+1*(5*2-1));
         System.out.println(count);
     }
