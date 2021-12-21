@@ -2,7 +2,7 @@ package switchStatement;
 
 public class SwitchPractice {
     public static void main(String[] args) {
-        int number=123;
+        int number=149;
         switch(number){
             case 100 :
                 System.out.println("First case");
@@ -16,8 +16,7 @@ public class SwitchPractice {
             case 130:
                 System.out.println("Fifth");
                 break;
-            default :
-                System.out.println("Default case");
+
         }
     }
 }
